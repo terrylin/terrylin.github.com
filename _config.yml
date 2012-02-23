@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Terrylin
-tagline: Site Tagline
+tagline: 
 author :
   name : terrylin
   email : terrylin.iam@gmail.com
