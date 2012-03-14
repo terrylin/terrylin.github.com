@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the wish list"
-category:wish 
+category: wish 
 tags: [wish]
 ---
 {% include JB/setup %}
