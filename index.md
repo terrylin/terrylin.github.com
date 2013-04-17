@@ -2,7 +2,6 @@
 layout: page
 title: TerryLin
 ---
-<iframe src="http://m.weather.com.cn/m/pn1/weather.htm?id=101020100T " width="235" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>  
 ## Link
 -  GO  
 ## 常去的
