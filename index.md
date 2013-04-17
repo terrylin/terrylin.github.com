@@ -7,7 +7,7 @@ title: Yes,Terrylin
 不管如何,希望自己能够坚持多写.  
 
 ## Link
-- 
+-   
 ## 常去的
 - [V2EX](http://www.v2ex.com) [围脖](http://www.weibo.com) [豆瓣](http://www.douban.com) [G+](https://plus.google.com) [Google地图](http://ditu.google.cn/maps?ie=UTF-8&hl=zh-CN&tab=wl) [Twitter](https://www.twitter.com)  
 ## 魔力小丸子
