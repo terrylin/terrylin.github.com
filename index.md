@@ -2,8 +2,9 @@
 layout: page
 title: TerryLin
 ---
+<iframe src="http://m.weather.com.cn/m/pn1/weather.htm?id=101020100T " width="235" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>  
 ## Link
--  <iframe src="http://m.weather.com.cn/m/pn1/weather.htm?id=101020100T " width="235" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>  
+-  GO  
 ## 常去的
 - [V2EX](http://www.v2ex.com) [围脖](http://www.weibo.com) [豆瓣](http://www.douban.com) [G+](https://plus.google.com) [Google地图](http://ditu.google.cn/maps?ie=UTF-8&hl=zh-CN&tab=wl) [Twitter](https://www.twitter.com)  
 ## 魔力小丸子
