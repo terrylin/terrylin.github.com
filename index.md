@@ -1,6 +1,5 @@
 ---
 layout: page
-title: TerryLin
 ---
 ## Link
 -  GO  
@@ -16,7 +15,7 @@ title: TerryLin
 ## 音乐
 - [虾米](http://www.xiami.com) [落网](http://www.luoo.net/) [豆瓣电台](http://douban.fm/) [Jing+](http://jing.fm/)   
 ## 其他
-- [163邮箱](http://mail.163.com)  [GMail](https://mail.google.com) [Github](https://www.github.com/) [小众软件](http://www.appinn.com/) [点点](http://www.diandian.com) 
+- [新浪](http://www.sina.com.cn) [163邮箱](http://mail.163.com)  [GMail](https://mail.google.com) [Github](https://www.github.com/) [小众软件](http://www.appinn.com/) [点点](http://www.diandian.com) 
 
 
 
