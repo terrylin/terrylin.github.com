@@ -5,6 +5,7 @@ category: memento
 tags: [memento]
 ---
 {% include JB/setup %}
+
 上川线，这是一条长长跨越浦东浦西的神奇的公交线
 
 一度好几年都是我上下班的主力公交工具，甚至在我住的这里开通地铁之前还老靠他进城   
