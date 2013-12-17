@@ -7,7 +7,7 @@ $(document).ready(function() {
 				})
 			}) 
  	$('body').snowflakes({
-		flakeCount : 7,
+		flakeCount : 12,
 		flakeIndex: 99999,
 		minSize : 30,
 		maxSize : 110,
