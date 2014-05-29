@@ -11,9 +11,6 @@ body {
 	background-color: #e2e2e2;
 	min-width: 900px;
 	background-image: url("/static/img/bg.jpg");
-	filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
-    -moz-background-size:100% 100%;
-    background-size:100% 100%;
 }
 
 a:link, a:visited, a:active {
