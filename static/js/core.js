@@ -1,4 +1,27 @@
 $(document).ready(function() {
+
+    $(function() {
+			var theWindow        = $(window),
+			    $bg              = $("#bg"),
+			    aspectRatio      = $bg.width() / $bg.height();
+
+			function resizeBg() {
+
+				if ( (theWindow.width() / theWindow.height()) < aspectRatio ) {
+				    $bg
+				    	.removeClass()
+				    	.addClass('bgheight');
+				} else {
+				    $bg
+				    	.removeClass()
+				    	.addClass('bgwidth');
+				}
+			}
+			theWindow.resize(function() {
+				resizeBg();
+			}).trigger("resize");
+	});
+
 	$(function(){
 				$("#logoimg").toggle(function(){
 					$('body').css("background-image","url('/static/img/bg3.jpg')");

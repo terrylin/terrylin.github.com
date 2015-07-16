@@ -9,9 +9,14 @@ body {
 	margin: 0px;
 	font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "STHeiti";
 	background-color: #e2e2e2;
+	/*
 	min-width: 900px;
 	background-image: url("/static/img/bg.jpg");
+	*/
 }
+#bg { position: fixed; top: 0; left: 0; }
+.bgwidth { width: 100%; }
+.bgheight { height: 100%; }
 
 a:link, a:visited, a:active {
 	color: #1c7fdb;
