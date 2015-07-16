@@ -6,15 +6,15 @@ $(document).ready(function() {
 					$('body').css("background-image","url('/static/img/bg.jpg')");
 				})
 			}) 
- 	$('body').snowflakes({
-		flakeCount : 12,
-		flakeIndex: 99999,
-		minSize : 30,
-		maxSize : 110,
-		minSpeed : 2,
-		maxSpeed : 4,
-		iterations : 30
-	 });
+ 	//$('body').snowflakes({
+	//	flakeCount : 12,
+	//	flakeIndex: 99999,
+	//	minSize : 30,
+	//	maxSize : 110,
+	//	minSpeed : 2,
+	//	maxSpeed : 4,
+	//	iterations : 30
+	// });
 	//Tooltips
         var tip = null;
 	$(".tip_trigger").hover(function(){
